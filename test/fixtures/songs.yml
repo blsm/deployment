@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  tittle: MyString
+  artist: 
+  genre: 
+  creation_date: 2013-07-24
+
+two:
+  tittle: MyString
+  artist: 
+  genre: 
+  creation_date: 2013-07-24
